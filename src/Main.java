@@ -38,6 +38,7 @@ public class Main {
 				board.boardArr[tempChoiceP2] = player2.mark;
 			}
 		}
+		//hello
 		sc.close();
 		System.out.println("END");
 	}
